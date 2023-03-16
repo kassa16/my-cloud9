@@ -11,7 +11,7 @@ do {
     input = readline.question("Enter a number(or 'q' to quit:): ");
     
     if (input === 'q'){
-    console.log ('Ok, exiting.')
+    console.log ('Ok, exiting.');
     }
     else {
         i += Number(input);
@@ -21,6 +21,6 @@ do {
 } while (input !='q');
 console.log("Goodbye!");
 
-console.log("The end of this project!")
+console.log("The end of this project!");
 
 console.log ("the code is written in javaScript ")
