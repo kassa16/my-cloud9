@@ -15,8 +15,12 @@ do {
     }
     else {
         i += Number(input);
-        console.log("i is now " + i);
+        console.log("i is now has the value of " + i);
     }
     
 } while (input !='q');
 console.log("Goodbye!");
+
+console.log("The end of this project!")
+
+console.log ("the code is written in javaScript ")
