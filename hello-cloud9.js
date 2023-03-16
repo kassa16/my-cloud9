@@ -21,6 +21,10 @@ do {
 } while (input !='q');
 console.log("Goodbye!");
 
+<<<<<<< HEAD
 console.log("The end of this project!");
+=======
+console.log("The end of this project!")
+>>>>>>> 65a0dcfee055cde0bbb6ef37c5d4b06e76065de7
 
 console.log ("the code is written in javaScript ")
